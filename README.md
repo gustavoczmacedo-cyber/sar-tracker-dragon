@@ -119,8 +119,17 @@ projeto/
 ├── dragon_flow.json       ← Flow do Node-RED (dashboard)
 └── README.md              ← Este arquivo
 ```
-
 ---
+## 📸 Screenshots
+
+### Dashboard em Tempo Real
+![Dashboard](images/dashboard.png)
+
+### Simulação no Wokwi
+![Wokwi](images/Wokwi.png)
+
+### Provisionamento FIWARE
+![Provisioning](images/provisioning.png)
 
 ## ▶️ Como Executar
 
